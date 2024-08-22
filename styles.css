@@ -29,6 +29,12 @@ body {
   margin: 0;
   padding: 0;
   background-color: var(--White);
+  touch-action: manipulation;
+  -ms-touch-action: manipulation;
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
 /* //////////////////////////////////////// DESKTOP RESPONSIVE ////////////////////////////////////////  */
