@@ -526,7 +526,7 @@ main {
 
 /* //////////////////////////////////////// MOBILE RESPONSIVE ////////////////////////////////////////  */
 
-@media screen and (max-width: 376px) {
+@media only screen and (max-width: 378px) {
   body {
     width: 100%;
     height: 100vh;
